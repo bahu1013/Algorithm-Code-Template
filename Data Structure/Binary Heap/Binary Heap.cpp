@@ -1,9 +1,7 @@
 #include <cstdio>
 #include <algorithm>
-
-#define N 100100
-
 using namespace std;
+#define N 100100
 
 struct MinHeap {
 	int Heap[N], HeapSize;	//Heap
