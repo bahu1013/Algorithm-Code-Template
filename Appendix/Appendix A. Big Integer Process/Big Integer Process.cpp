@@ -2,8 +2,8 @@
 typedef __int64 INT;
 const int pb = 10;
 const int base_digits = 9;
-const int base = 1000000000;	//pb^base_digits
-const int DIV = 1000000;		//pb^6
+const int base = 1000000000;
+const int DIV = 1000000;
 
 struct bigint {
 	vector <int> a;
