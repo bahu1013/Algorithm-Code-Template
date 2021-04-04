@@ -1,4 +1,3 @@
-//SWERC 2013. Cleaning the Hallway
 #include <stdio.h>
 #include <cmath>
 #include <algorithm>
